@@ -1,0 +1,32 @@
+{
+  "router": {
+    "hostname": "",
+    "interfaces": [
+      {
+        "name": "",
+        "description": "",
+        "ip_address": "",
+        "subnet_mask": "",
+        "status": ""
+      }
+    ],
+    "routing": {
+      "protocols": [
+        {
+          "name": "",
+          "status": "",
+          "parameters": {
+          }
+        }
+      ],
+    },
+    "security": {
+      "passwords": [
+        {
+          "username": "",
+          "password": ""
+        }
+      ],
+    },
+  }
+}
